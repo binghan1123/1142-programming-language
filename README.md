@@ -13,6 +13,6 @@
 
 - [HW2 Part1](https://github.com/binghan1123/1142-programming-language/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A.ipynb) 作業繳交
 - [HW2 最終版](https://github.com/binghan1123/1142-programming-language/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A%E6%9C%80%E7%B5%82%E7%89%88.ipynb) colab檔案
-- [HW2 影片講解](https://youtu.be/Kk683fTiRcY)
+- [HW2 影片講解](https://youtu.be/Kk683fTiRcY) 作業繳交
 - [vibe coding範例](https://docs.google.com/document/d/1sxyOhyViRsVuDAD18YGqoh0A-mahvtkr16cE3WFLe88/edit?usp=sharing)
 ## 專題連結區
