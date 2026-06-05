@@ -21,4 +21,7 @@
 - [HW3 影片講解(第一次)](https://youtu.be/b0Y95ko7eOo) 作業繳交
 - [HW3 補做爬蟲(完整版)](https://github.com/binghan1123/1142-programming-language/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84-%E8%A3%9C%E5%81%9A%E7%88%AC%E8%9F%B2.ipynb) colab檔案
 - [HW3 影片講解(爬蟲)](https://youtu.be/zU84A0kExb8)
+
+- [HW4 最終版](https://github.com/binghan1123/1142-programming-language/blob/main/HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb) colab檔案
+- [HW4 影片講解]()作業繳交
 ## 專題連結區
