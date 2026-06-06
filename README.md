@@ -24,5 +24,5 @@
 <br/>
 
 - [HW4 最終版](https://github.com/binghan1123/1142-programming-language/blob/main/HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb) colab檔案
-- [HW4 影片講解]()作業繳交
+- [HW4 影片講解](https://youtu.be/gT9gcPsqgKQ)作業繳交
 ## 專題連結區
